@@ -1,14 +1,12 @@
 ## Hi there 👋
 
-東京在住のフルスタックエンジニアです。空き時間に、インディーズバンドを応援する音楽ゲームを作っています。
+東京在住のフルスタックエンジニアです。
+空き時間に、インディーズバンドを応援する音楽ゲームを作っています。
 
-### Here's my LinkedIn
-[![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/hanyang-jiang-4b02461ba/)
-
-## Teck Stack
+## 技術スタック
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python)
+![Java](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=Java)
 ![Ruby](https://img.shields.io/badge/Ruby-red?style=for-the-badge&logo=Ruby)
 ![TypeScript](https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=Typescript)
 
