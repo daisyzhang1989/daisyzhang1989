@@ -1,20 +1,14 @@
 ## Hi there 👋
 
-東京在住のフルスタックエンジニアです。
+東京在住のフルスタックエンジニアです。</br>
 空き時間に、インディーズバンドを応援する音楽ゲームを作っています。
 
 ## 技術スタック
 
 ### Languages
-![Java](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=Java)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=unity&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-red?style=for-the-badge&logo=Ruby)
 ![TypeScript](https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=Typescript)
-
-
-### Libraries
-![Tensorflow](https://img.shields.io/badge/Tensorflow-white?style=for-the-badge&logo=Tensorflow)
-![FastApi](https://img.shields.io/badge/Fastapi-white?style=for-the-badge&logo=FastApi)
-
 
 ### Frameworks
 
