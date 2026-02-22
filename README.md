@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-## Hi there 👋
-
-I’m a full-stack software engineer based in Tokyo. 🐖🐖
+東京在住のフルスタックエンジニアです。空き時間に、インディーズバンドを応援する音楽ゲームを作っています。
 
 ### Here's my LinkedIn
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/hanyang-jiang-4b02461ba/)
