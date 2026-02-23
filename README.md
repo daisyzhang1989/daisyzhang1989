@@ -5,12 +5,12 @@
 
 ## 技術スタック
 
-### Languages
+### 言語
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=unity&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-red?style=for-the-badge&logo=Ruby)
 ![TypeScript](https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=Typescript)
 
-### Frameworks
+### フレームワーク
 
 ![Rails](https://img.shields.io/badge/Rails-%23f7d47e?style=for-the-badge&logo=rubyonrails&logoColor=red)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -18,7 +18,7 @@
 ![Vue JS](https://img.shields.io/badge/Vue.js-white?style=for-the-badge&logo=vue.js)
 
 
-### Others
+### その他
  - AWS
  - Github Workflow
  - Docker
